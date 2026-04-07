@@ -8,13 +8,26 @@
     </h3>
   </div>
   <div class="w3-padding-64 w3-medium w3-text-grey" style="font-weight:bold">
+
+
+    123
     {% assign stack = '' | split: ',' %}
     
-    {% for chapter in site.chapters %}
-      {% for tag in chapter.chapter %}
+    {% for post in site.posts %}
+      {% for tag in post.categories %}
         {% assign stack = stack | push: tag %}
       {% endfor %}
     {% endfor %}
+
+  jajaja 
+<ul>
+  {% for category in site.categories %}
+    <li>{{ category[0] }}</li>
+  {% endfor %}
+</ul>
+
+
+    {{ stack }}
 
     {% assign uniqueChapters = stack | uniq %}
 
