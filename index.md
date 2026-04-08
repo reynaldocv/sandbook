@@ -20,7 +20,7 @@ layout: home
     {% endunless %}
   {% endif %}
 {% endfor %}
-
+ <div class="w3-row w3-grayscale">
 {% comment %} 2. Iterate through each folder and show 3 items {% endcomment %}
 {% for folder in post_folders %}
 <div class="w3-col l4 s12">
