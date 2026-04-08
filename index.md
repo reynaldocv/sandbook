@@ -25,13 +25,13 @@ layout: home
 {% for folder in post_folders %}
 <div class="w3-col l4 s12">
         <div class="w3-container w3-whitesmoke">
-        <img src="{{site.baseurl}}/assets/images/{{folder}}.png" style="width:100%">          
-        <strong>{{ folder }}</strong>
+         <a href="{{ site.baseurl }}"><img src="{{site.baseurl}}/assets/images/{{folder}}.png" style="width:100%">          
+        <strong>{{ folder }}</strong></a>
   <ul>
     {% assign count = 0 %}
     {% for post in site.posts %}
       {% if post.path contains folder and count < 3 %}
-        <li>{{ post.date | date: "%m" }} - {{ post.date | date: "%d" }}  <a href="{{ site.baseurl }}{{post.url}}">{{ post.title }}</a></li>
+        <li>  <a href="{{ site.baseurl }}{{post.url}}">({{ post.date | date: "%m" }} - {{ post.date | date: "%d" }}) {{ post.title }}</a></li>
         {% assign count = count | plus: 1 %}
       {% endif %}
     {% endfor %}
