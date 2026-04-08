@@ -39,8 +39,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-collections :
-  poems: 
-    output: true
-
