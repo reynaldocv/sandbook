@@ -38,6 +38,7 @@ This is the index.md
   {% endif %}
 {% endfor %}
 
+
 <ul>
   {% for folder in folder_list %}
     <li>{{ folder }}</li>
@@ -65,9 +66,55 @@ This is the index.md
 you may need to create a custom sort key via a jekyll plugin or 
 re-structure folder names to include the sort key first. {% endcomment %}
 
-<ul>
-{% for folder in sorted_folders | sort by name_parts %}
-  {% assign name_parts = folder | split: ' ' %}
-  <li>{{ folder }} (Sorted by: {{ name_parts[1] }})</li>
+
+{% for folder in sorted_folders %}
+  <div class="w3-col l4 s6">
+    <div class="w3-container w3-whitesmoke">
+      <img src="/assets/images/{{folder}}.jpg" style="width:100%">
+      <p>{{folder}}<br><b>$24.99</b></p>
+    </div>    
+  </div>
 {% endfor %}
-</ul>
+</div>
+
+
+
+{% assign all_posts = site.posts %}
+{% comment %} Obtenemos las rutas únicas de las carpetas dentro de _posts {% endcomment %}
+{% assign paths = all_posts | map: "path" %}
+{% assign folders = "" | split: "" %}
+
+{% for path in paths %}
+  {% assign path_parts = path | split: "/" %}
+  {% if path_parts.size > 2 %}
+    {% assign folder_name = path_parts[1] %}
+    {% unless folders contains folder_name %}
+      {% assign folders = folders | push: folder_name %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
+
+hola como vas
+<br>
+<br>
+<br>
+
+
+<div class="w3-row w3-grayscale">
+{% for folder in folders %}      
+    <div class="w3-col l4 s12">
+        <div class="w3-container w3-whitesmoke">
+        <img src="{{site.baseurl}}/assets/images/{{folder}}.png" style="width:100%">          
+        <strong>{{ folder }}</strong>
+      {% assign count = 0 %}
+      {% for post in all_posts %}
+        {% if post.path contains folder and count < 3 %}   
+          <li>{{ post.date | date: "%m" }} - {{ post.date | date: "%d" }}  <a href="{{ site.baseurl }}{{post.url}}">{{ post.title }}</a></li>
+                 {% assign count = count | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+     </div>    
+       </div>
+{% endfor %}
+</div>
