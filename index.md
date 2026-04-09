@@ -23,15 +23,19 @@ layout: home
  <div class="w3-row w3-grayscale">
 {% comment %} 2. Iterate through each folder and show 3 items {% endcomment %}
 {% for folder in post_folders %}
-<div class="w3-col l4 s12">
+<div class="w3-col l4 s6">
         <div class="w3-container w3-whitesmoke">
-         <a href="{{ site.baseurl }}"><img src="{{site.baseurl}}/assets/images/{{folder}}.png" style="width:100%">          
-        <strong>{{ folder }}</strong></a>
+        <a href="{{ site.baseurl }}/category/{{folder | slugify}}">
+          <div class="contenedor-imagen">
+            <img src="{{site.baseurl}}/assets/images/{{folder}}.png">
+            <div class="texto-centrado">{{ folder }}</div>
+          </div>
+        </a>        
   <ul>
     {% assign count = 0 %}
     {% for post in site.posts %}
       {% if post.path contains folder and count < 3 %}
-        <li>  <a href="{{post.url}}">({{ post.date | date: "%m" }} - {{ post.date | date: "%d" }}) {{ post.title }}</a></li>
+        <li>  <a href="{{site.baseurl}}{{post.url}}"> {{ post.title }}</a></li>
         {% assign count = count | plus: 1 %}
       {% endif %}
     {% endfor %}

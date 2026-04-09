@@ -1,13 +1,32 @@
 ---
-layout: poema
-title:  "Como que no"
-date:   2026-04-06 16:59:43 +0000
-categories: Diluvios 2013
+layout:     poema
+title:      "Diluvio III"
+date:       2026-04-06 16:59:43 +0000
+category:   Diluvios-2013
 ---
-hello
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+    y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...  y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...  y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...  y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...  y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...  y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...  y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...  y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...  y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...  y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...  y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...  y la noche se sumergue 
+    y la vida se acaba
+    no estar a tu lado...
