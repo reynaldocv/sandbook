@@ -1,6 +1,6 @@
 ---
 layout:     poema
-title:      "Sin ahinco"
+title:      "Ibirapuera VIII
 date:       2026-04-06 16:59:43 +0000
 category:   Ibirapuera-2026
 ---
@@ -14,6 +14,8 @@ category:   Ibirapuera-2026
     Dicen que el tiempo todo lo cura
     están abiertas — tristes comisuras.
     
-    Dicen que voy por ahí — alícaído
+    Dicen que voy por ahí — entristecido 
+    y no es culpa tuya — es mi castigo 
+    por ser quien soy — por haberte querido. 
     
     
