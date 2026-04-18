@@ -1,0 +1,10 @@
+---
+layout: poema
+title:  "Ibirapuera VIII"
+date:   2026-04-06 16:59:43 +0000
+category: Ibirapuera-2026
+---
+    Hoy fracasé...
+
+
+    
