@@ -1,12 +1,13 @@
 ---
 layout: poema
-title:  "Ibirapuera IX"
+title:  "Ibirapuera VIII"
 date:   2026-04-21 16:59:43 +0000
 category: Ibirapuera-2026
 ---
         Si alguna vez has de extrañarme
-        no quiero que pierdas tu tiempo,
-        no quiero que pienses en mí...
+        no quiero que pierdas tu tiempo...
+
+        no pienses en mí...
 
         Mejor disfruta del sol tibio de la tarde 
         del dulce aroma de las flores en el aire
@@ -19,7 +20,5 @@ category: Ibirapuera-2026
         no quiero que pierdas tu tarde,
         mas recuerda que en el amor  
         hay personas que lo dan todo 
-        y otros dan... pero dan tan poco...
+        y otros dan pero dan — tan poco...
 
-
-    
