@@ -4,16 +4,16 @@ title:  "Ibirapuera X"
 date:   2026-04-23 16:59:43 +0000
 category: Ibirapuera-2026
 ---
-
+        
         Danzemos — tú y yo a la pista vamos 
-        donde todo es más bello si bailamos...
-    
+        que todo es más bello si bailamos...
+        
         Tú y yo — al compás apresados
         por la melodía del mar.
         La playa y las olas — bailando.
         que soy sumiso de tu abrazo
         cuando me haces — retozar...
-    
+        
         Bailemos — hasta el amanecer
         bajo el azul del cielo inquieto 
         que las nubes sean fiel testigo
@@ -22,4 +22,3 @@ category: Ibirapuera-2026
         
         Vamos... tú y yo a la pista — bailemos
         que aflore el amor que nos tenemos...
-
