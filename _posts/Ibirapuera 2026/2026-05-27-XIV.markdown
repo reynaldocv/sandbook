@@ -1,6 +1,6 @@
 ---
 layout: poema
-title:  "Ibirapuera VIII"
+title:  "Ibirapuera XIV"
 date:   2026-05-27 16:59:43 +0000
 category: Ibirapuera-2026
 ---
@@ -8,8 +8,11 @@ category: Ibirapuera-2026
         no de alguién 
         no de algo, 
         no de la vida... 
-
-        Estoy enamorado, 
-        solo enamorado, 
-        un tanto enamorado, 
+        
+        Estoy enamorado
+        un tanto enamorado
         un loco enamorado...
+        
+        Estoy enamorado,         
+        solo enamorado...
+        
