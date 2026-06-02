@@ -1,8 +1,8 @@
 ---
 layout: poema
-title:  "Lágrima LVII"
+title:  "Lagrima LVII"
 date:   2026-11-28 16:59:43 +0000
-category: Lágrimas-2014
+category: Lagrimas-2014
 ---
     No hay nada.
     En casa no hay nada, 
