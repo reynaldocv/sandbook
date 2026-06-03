@@ -1,6 +1,6 @@
 ---
 layout: poema
-title:  "Lloriqueos XII"
+title:  "Lloriqueo XII"
 date:   2013-05-29 16:59:43 +0000
 category: Diluvios-2013
 ---
