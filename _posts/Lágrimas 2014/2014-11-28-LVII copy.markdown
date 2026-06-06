@@ -1,8 +1,8 @@
 ---
 layout: poema
-title:  "Lagrima LVII"
-date:   2026-11-28 16:59:43 +0000
-category: Lagrimas-2014
+title:  "Lágrima LVII"
+date:   2014-11-28 16:59:43 +0000
+category: Lágrimas-2014
 ---
     No hay nada.
     En casa no hay nada, 
@@ -25,5 +25,4 @@ category: Lagrimas-2014
     y coitado él del espejo 
     nunca me quiso contestar...
 
-    
-
+fafdasf
