@@ -1,9 +1,0 @@
----
-layout:     poema
-title:      "Ibira I"
-date:       2025-04-20 16:59:43 +0000
-category:   Ibirapuera-2026
----
-     
-    
-    
