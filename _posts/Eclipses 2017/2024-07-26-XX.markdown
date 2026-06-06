@@ -1,7 +1,0 @@
----
-layout: poema
-title:  "Eclipse X"
-date:   2024-07-26 16:59:43 +0000
-category: Eclipses-2017
----
-  
