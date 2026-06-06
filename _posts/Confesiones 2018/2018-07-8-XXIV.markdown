@@ -1,7 +1,7 @@
 ---
 layout: poema
 title:  "Confesión XXIV"
-date:   2024-07-08 16:59:43 +0000
+date:   2018-07-08 16:59:43 +0000
 category: Confesiones-2018
 ---
     No te quiero tocar porque lo que toco;
