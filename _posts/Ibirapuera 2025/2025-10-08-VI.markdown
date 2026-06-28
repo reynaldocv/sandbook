@@ -2,7 +2,7 @@
 layout:     poema
 title:      "Ibira VI"
 date:       2025-10-08 16:59:43 +0000
-category:   Ibira-2025
+category:   Ibirapuera-2025
 ---
     Una mañana, 
     la felicidad de cerca merodeaba 
@@ -13,7 +13,8 @@ category:   Ibira-2025
     No me quiso porque no había nada que querer.
     Y me dejó, tal cual me encontró, 
     parapetado entre sábanas y frazadas 
-    en aquella tranquila mañana...
+    en aquella tranquila mañana
+    ensimismado en la calma...
    
     
     
