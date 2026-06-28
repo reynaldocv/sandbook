@@ -1,7 +1,7 @@
 ---
 layout:     poema
 title:      "Ibirapuera XVI"
-date:       2026-06-28 16:59:43 +0000
+date:       2026-06-28 03:15:43 +0000
 category:   Ibirapuera-2026
 ---
      Y voy a morir — algún día — voy a morir
