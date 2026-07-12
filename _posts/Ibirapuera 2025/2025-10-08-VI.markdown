@@ -1,6 +1,6 @@
 ---
 layout:     poema
-title:      "Ibira VI"
+title:      "Ibirapuera VI"
 date:       2025-10-08 16:59:43 +0000
 category:   Ibirapuera-2025
 ---
