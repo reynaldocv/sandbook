@@ -1,7 +1,7 @@
 ---
 layout:     poema
 title:      "Ibirapuera XXIV"
-date:       2026-10-19 16:59:43 +0000
+date:       2026-09-21 16:59:43 +0000
 category:   Ibirapuera-2026
 ---
     Quiero abandonarme 
