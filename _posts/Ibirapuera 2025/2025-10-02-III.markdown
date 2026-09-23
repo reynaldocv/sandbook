@@ -1,0 +1,7 @@
+---
+layout:     poema
+title:      "Ibirapuera III"
+date:       2025-10-02 16:59:43 +0000
+category:   Ibirapuera-2025
+---
+ 

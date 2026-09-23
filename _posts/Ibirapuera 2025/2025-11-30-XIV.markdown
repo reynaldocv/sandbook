@@ -1,0 +1,6 @@
+---
+layout:     poema
+title:      "Ibirapuera XIV"
+date:       2025-11-30 16:59:43 +0000
+category:   Ibirapuera-2025
+---
