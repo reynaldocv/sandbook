@@ -1,6 +1,6 @@
 ---
 layout:     poema
-title:      "Ibirapuera XXIV"
+title:      "Ibirapuera XXV"
 date:       2026-09-19 16:59:43 +0000
 category:   Ibirapuera-2026
 ---
