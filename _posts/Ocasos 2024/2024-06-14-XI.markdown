@@ -1,7 +1,7 @@
 ---
 layout: poema
 title:  "Ocaso XI"
-date:   2024-16-14 16:59:43 +0000
+date:   2024-06-14 16:59:43 +0000
 category: Ocasos-2024
 ---
     Voy caminando... me enciendo un cigarro...
