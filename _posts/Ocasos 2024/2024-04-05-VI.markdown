@@ -1,0 +1,13 @@
+---
+layout: poema
+title:  "Ocaso VI"
+date:   2024-04-05 16:59:43 +0000
+category: Ocasos-2024
+---
+    A lo cerca y a lo lejos, siempre me estás comparando: 
+    que ellos te hacen favores, favores que yo no realizo...
+    Que te dan sus paraguas para cuando está nublado; 
+    aún no entiendes que conmigo siempre está soleado...
+
+    
+
