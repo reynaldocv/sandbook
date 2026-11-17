@@ -1,8 +1,8 @@
 ---
 layout: poema
-title:  "Ocaso VII"
-date:   2024-04-16 16:59:43 +0000
-category: Ocasos-2024
+title:  "Devaneo VIII"
+date:   2023-04-16 16:59:43 +0000
+category: Devaneos-2023
 ---
     En las noches frías del invierno,
     en las tardes de viento de otoño,
